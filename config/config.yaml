@@ -1,0 +1,14 @@
+
+# API keys
+google_api_key: "AIzaSyBh6L4A1RqEBpMdocsZ9cNWDUTYstDEDuE"
+
+# File paths
+data_file: "data/drug-ndc.json"
+output_dir: "reports"
+
+# Report settings
+report:
+  include_ai_insights: true
+  include_clinical_info: true
+  include_market_info: true
+  pdf_template: "default"
